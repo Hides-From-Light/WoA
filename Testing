@@ -1,0 +1,4 @@
+God = 9001
+Satan = 666
+print "Hello World!"
+print God-Satan
